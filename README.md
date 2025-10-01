@@ -1,4 +1,3 @@
-![Fachri Firmansyah](img\banner.jpg)
 # 💫 About Me:
 Hi, I’m Fachri 👋<br>I’m a Data & Marketing Analyst in the making, passionate about turning raw data into actionable insights.<br>My focus areas are Marketing Analytics, Data Visualization, and Growth Strategy.<br>Currently building portfolio projects to sharpen my skills and showcase real business impact.<br><br>I’m especially interested in tech, startups, and fintech, and love exploring how smart data-driven strategies can create real impact.<br>Always curious, always learning — and open to connecting with like-minded people 🚀
 
